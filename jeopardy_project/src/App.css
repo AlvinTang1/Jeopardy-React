@@ -1,5 +1,7 @@
-.App {
+.container {
   text-align: center;
+  background-image:url(./images/blank-jeopardy-template.png);
+  height:100vh;
 }
 
 .App-logo {
