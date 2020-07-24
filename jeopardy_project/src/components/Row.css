@@ -1,0 +1,9 @@
+.container{
+    display: inline-block;
+}
+.box{
+    width:20%;
+    float:left;
+    padding:20px;
+    border:2px solid black;
+}

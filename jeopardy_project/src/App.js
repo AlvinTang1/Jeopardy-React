@@ -1,13 +1,17 @@
 import React from 'react';
 import './App.css';
-import Box from './components/Box';
+import Row from './components/Row';
 
 function App() {
   return (
     <div className="container">
       <h1 style={{color:"gold"}}>JEOPARDY</h1>
-      <Box></Box>
-      <Box></Box>
+      <Row></Row>
+      <Row></Row>
+      <Row></Row>
+      <Row></Row>
+      <Row></Row>
+      <Row></Row>
     </div>
   );
 }
