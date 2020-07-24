@@ -1,6 +1,12 @@
+html, body{
+  height:100%;
+  margin:0px;
+  background-color:blue;
+}
 .container {
   text-align: center;
-  background-color:blue;
+  margin:0px;
+  height:100%
 }
 
 .App-logo {
